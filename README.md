@@ -22,7 +22,7 @@ As a Data & Financial Analyst, I uncover the patterns behind performance, build 
 Skilled in Excel, SQL, Power BI, and Python, I believe the true value of analytics lies not in the volume of data, but in the quality of decisions it enables.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://strengthsnr.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
